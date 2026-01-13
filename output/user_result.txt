@@ -1,14 +1,14 @@
 🕘️更新时间,#genre#
-2026-01-13 18:17:37,http://keke.kandiantv.cn/migu720p.php?id=608807420
+2026-01-14 06:14:46,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://keke.kandiantv.cn/migu720p.php?id=608807420
-CCTV-1,http://61.156.228.12:8154/tsfile/live/0001_1.m3u8
-CCTV-1,http://120.238.94.10:9901/tsfile/live/1018_1.m3u8
-CCTV-1,http://112.27.235.94:8000/hls/1/index.m3u8
-CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
-CCTV-1,http://218.3.138.25:1111/tsfile/live/1000_1.m3u8
-CCTV-1,http://183.11.239.36:808/hls/19/index.m3u8
-CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
-CCTV-1,http://123.130.84.106:8154/tsfile/live/0001_1.m3u8
-CCTV-1,http://58.57.40.22:9901/tsfile/live/0001_1.m3u8
+CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
+CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
+CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
+CCTV-1,https://migu.188766.xyz/?migutoken=ccdf3d3b124280cc19793e4ac0ae447e&id=CCTV1&type=yy
+CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344
+CCTV-1,https://hls-gateway.vpstv.net/streams/476879.m3u8
+CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
+CCTV-1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
