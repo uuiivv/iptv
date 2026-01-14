@@ -150,6 +150,8 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 亳州新聞頻道 (360p),http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.m3u8
 仙桃新聞綜合 (576p),http://221.233.242.239:280/live/71/playlist.m3u8
 仙桃生活文體 (576p),http://221.233.242.239:280/live/72/playlist.m3u8
+优漫卡通 (576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
+优漫卡通 (576p),http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
 余姚姚江文化 (576p),https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 余姚新闻综合 (576p),https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
@@ -163,8 +165,13 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 内蒙古卫视 (576p),http://183.207.248.71/gitv/live1/G_NEIMENGGU/G_NEIMENGGU
 内蒙古卫视 (576p),http://223.110.245.173/PLTV/4/224/3221225836/index.m3u8
 农安新闻综合 [Geo-blocked],https://stream2.jlntv.cn/naxw/sd/live.m3u8
+凤凰中文 (720p),http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰中文 (720p),http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+凤凰中文 (720p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+凤凰中文 (576p),http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰资讯 (720p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 凤凰资讯 (576p),http://125.210.152.18:9090/live/FHZX_1200.m3u8
+凤凰香港 (720p),http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 利川公共 (576p) [Geo-blocked],http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
 利川公共 (180p) [Not 24/7],http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
 利川新闻综合 (480p) [Not 24/7],http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
@@ -230,6 +237,7 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 天津卫视 (576p),http://183.207.249.12/PLTV/4/224/3221225808/index.m3u8
 天津卫视 (576p),http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225808/index.m3u8
 奇妙電視 (720p),http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+女性时尚 (576p),http://223.110.245.169/PLTV/4/224/3221227026/index.m3u8
 孟州电视台 (1080p) [Not 24/7],http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 宁夏卫视 (576p) [Not 24/7],http://183.207.248.71/gitv/live1/G_NINGXIA/G_NINGXIA
 宁夏卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
@@ -405,6 +413,7 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 浙江国际 (1080p),https://qiniup-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿 (1080p),https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江影视 (720p),https://qiniup-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
